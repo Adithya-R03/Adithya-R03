@@ -11,13 +11,6 @@
   
   <br>
   
-  <!-- Animated Particles Effect -->
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation" />
-  </a>
-  
-  <br>
-  
   <!-- Animated Magic Banner -->
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=80&section=header&text=✨%20Magical%20AI%20Innovations%20✨&fontSize=30&fontAlignY=50&animation=fadeIn&fontColor=ffffff" alt="Magical Banner" />
   
@@ -45,16 +38,6 @@
   
   <!-- Animated Sparkles Effect -->
   <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,6,9,12,30&height=100&section=footer&text=✨%20Neural%20Networks%20Enchanter%20✨&fontSize=30&fontAlignY=65&animation=blinking&fontColor=ffffff" alt="Footer Animation" />
-  
-  <br>
-  
-  <!-- Animated Stats Banner -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Adithya-R03&bg_color=000000&color=9745f5&line=8c00ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-  
-  <br>
-  
-  <!-- Additional Snake Animation -->
-  <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid" />
 </div>
 
 # 💫 About Me:
