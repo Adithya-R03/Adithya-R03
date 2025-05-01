@@ -1,7 +1,18 @@
 # <div align="center">⚡ Welcome to My Magical Repository ⚡</div>
 
 <div align="center">
+  <!-- Enhanced Header with Custom Animated Image -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Adithya%20Raju&fontSize=60&fontAlignY=35&animation=fadeIn&fontColor=ffffff&desc=AI%20Enchanter%20%7C%20Generative%20AI%20Wizard&descAlignY=55&descSize=20" alt="Header with Name" />
+  
+  <br>
+  
+  <!-- Animated Typing Effect -->
   <img src="https://readme-typing-svg.herokuapp.com?font=Wizarding+World&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=800&height=100&lines=I+Solemnly+Swear+I'm+Up+To+No+Good;Adithya+Raju+-+AI+Enchanter;Brewing+Potent+Machine+Learning+Spells;Accio+Neural+Networks!;Generative+AI+Innovations" alt="Typing SVG" />
+  
+  <br>
+  
+  <!-- Custom AI Wizard Animation Banner -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejRnZ2VzcWN3b2V6ZGJja3U1YWkyeTVmZmRndjVncDEzaXh2YzRmZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="480" alt="AI Wizard Animation" />
   
   <br>
   
