@@ -14,18 +14,21 @@
   
   <br><br>
   
-  <!-- Neural Network Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="Neural Network Animation" src="https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/images/neural.gif" width="600px">
-  </picture>
+  <!-- Interactive AI Journey Animation -->
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=AI%20Journey&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header" />
+    <br>
+    <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid" />
+    <br>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer" />
+  </div>
   
-  <br><br>
+  <br>
   
-  <a href="#">
-    <img src="https://img.shields.io/badge/Status-Casting%20Spells-blueviolet?style=for-the-badge&logo=wizard&logoColor=white" alt="Status" />
-  </a>
+  <div align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Status-Casting%20Spells-blueviolet?style=for-the-badge&logo=wizard&logoColor=white" alt="Status" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Wizarding%20Level-Advanced-gold?style=for-the-badge&logo=magic&logoColor=white" alt="Level" /></a>
+  </div>
 </div>
 
 # 💫 About Me:
