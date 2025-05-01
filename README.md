@@ -1,43 +1,34 @@
 # <div align="center">⚡ Welcome to My Magical Repository ⚡</div>
 
 <div align="center">
-  <!-- Animated Gradient Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,5,30&height=200&section=header&text=Adithya%20Raju&fontSize=65&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=AI%20Enchanter%20%7C%20Generative%20AI%20Wizard&descAlignY=60&descSize=22" alt="Animated Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Wizarding+World&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=800&height=100&lines=I+Solemnly+Swear+I'm+Up+To+No+Good;Adithya+Raju+-+AI+Enchanter;Brewing+Potent+Machine+Learning+Spells;Accio+Neural+Networks!;Generative+AI+Innovations" alt="Typing SVG" />
   
   <br>
   
-  <!-- Enhanced Animated Typing Effect -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Wizarding+World&size=40&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=800&height=100&lines=I+Solemnly+Swear+I'm+Up+To+No+Good;Brewing+Potent+Machine+Learning+Spells;Accio+Neural+Networks!;Crafting+Digital+Enchantments;Generative+AI+Innovations" alt="Typing SVG" />
-  
-  <br>
-  
-  <!-- Animated Magic Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=80&section=header&text=✨%20Magical%20AI%20Innovations%20✨&fontSize=30&fontAlignY=50&animation=fadeIn&fontColor=ffffff" alt="Magical Banner" />
-  
-  <br>
-  
-  <!-- Animated Badges -->
-  <div>
+  <a href="#">
     <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" alt="Powered by Black Magic" />
+  </a>
+  <a href="#">
     <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Interactive AI Journey Animation -->
+  <div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header&text=AI%20Journey&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" alt="Header" />
+    <br>
+    <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Grid" />
+    <br>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" alt="Footer" />
   </div>
   
   <br>
   
-  <!-- Animated Status Badges -->
-  <div>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Status-Casting%20Spells-blueviolet?style=for-the-badge&logo=wizard&logoColor=white" alt="Status">
-    </a>
-    <a href="#">
-      <img src="https://img.shields.io/badge/Wizarding%20Level-Advanced-gold?style=for-the-badge&logo=magic&logoColor=white" alt="Level">
-    </a>
+  <div align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Status-Casting%20Spells-blueviolet?style=for-the-badge&logo=wizard&logoColor=white" alt="Status" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Wizarding%20Level-Advanced-gold?style=for-the-badge&logo=magic&logoColor=white" alt="Level" /></a>
   </div>
-  
-  <br>
-  
-  <!-- Animated Sparkles Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=5,6,9,12,30&height=100&section=footer&text=✨%20Neural%20Networks%20Enchanter%20✨&fontSize=30&fontAlignY=65&animation=blinking&fontColor=ffffff" alt="Footer Animation" />
 </div>
 
 # 💫 About Me:
