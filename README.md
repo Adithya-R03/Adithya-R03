@@ -1,11 +1,26 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, Magical Coders!
+# <div align="center">⚡ Welcome to My Magical Repository ⚡</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&random=false&width=600&height=100&lines=Adithya+Raju;AI+%26+ML+Wizard;Generative+AI+Enthusiast;Python+Sorcerer" alt="Typing SVG" />
-</div>
-
-<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Wizarding+World&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=800&height=100&lines=I+Solemnly+Swear+I'm+Up+To+No+Good;Adithya+Raju+-+AI+Enchanter;Brewing+Potent+Machine+Learning+Spells;Accio+Neural+Networks!;Generative+AI+Innovations" alt="Typing SVG" />
+  
+  <br>
+  
+  <a href="#">
+    <img src="https://forthebadge.com/images/badges/powered-by-black-magic.svg" alt="Powered by Black Magic" />
+  </a>
+  <a href="#">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  </a>
+  
+  <br><br>
+  
   <img width="800" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  
+  <br><br>
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Casting%20Spells-blueviolet?style=for-the-badge&logo=wizard&logoColor=white" alt="Status" />
+  </a>
 </div>
 
 # 💫 About Me:
@@ -57,53 +72,63 @@ Do you dare step into the enchanted corridors of innovation? Let's embark on thi
 
 ---
 
-## 🧙‍♂️ My Tech Spellbook
+## <div align="center">🧙‍♂️ My Magical Tech Arsenal 🧙‍♂️</div>
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" align="center">
+      <h3>💻 Enchanted Languages</h3>
+      <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark&perline=3" alt="Languages" />
+      <br><br>
+      <h3>⚡ AI & ML Spellbooks</h3>
+      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=3" alt="AI & ML Tools" />
+      <br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" width="50" alt="Keras" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" width="50" alt="OpenCV" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-Learn" />
+    </td>
+    <td width="50%" align="center">
+      <h3>📊 Data Magic</h3>
+      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
+      <br>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" width="50" alt="NumPy" />
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="50" alt="Pandas" />
+      <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/matplotlib-icon.svg" width="50" alt="Matplotlib" />
+      <br><br>
+      <h3>☁️ Cloud Charms</h3>
+      <img src="https://skillicons.dev/icons?i=aws,firebase,github&theme=dark" alt="Cloud Tools" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
+  <h3>🎨 Creative Potions & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="Design Tools" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" alt="Canva" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" width="45" alt="Netlify" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="45" alt="NVIDIA" />
+</div>
 
-### 💻 Languages
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
-</p>
+<br>
 
-### ⚡ Machine Learning & AI
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"/></a>
-</p>
+<div align="center">
+  <details>
+    <summary><b>🔮 Click to reveal more magical tools</b></summary>
+    <br>
+    <img src="https://img.shields.io/badge/LangChain-💠-purple?style=for-the-badge&labelColor=black" alt="LangChain" />
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
+    <img src="https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+    <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+    <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
+  </details>
+</div>
 
-### 📊 Data Science
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/></a>
-</p>
-
-### ☁️ Cloud & DevOps
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
-
-### 🎨 Design & Tools
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio"/></a>
-</p>
+<div align="center">
+  <h3>🧪 My Tech Power Level</h3>
+  <a href="#">
+    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Magic%20Levels&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=catppuccin_mocha&line1=python,python,61c9f8;tensorflow,tensorflow,ff6f00;pytorch,pytorch,ee4c2c;opencv,opencv,5c3ee8;&line2=keras,keras,d00000;numpy,numpy,013243;pandas,pandas,150458;github,github,ffffff;" alt="Tech Stack"/>
+  </a>
 </div>
 
 ---
