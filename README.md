@@ -14,7 +14,12 @@
   
   <br><br>
   
-  <img width="800" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <!-- Neural Network Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="Neural Network Animation" src="https://raw.githubusercontent.com/durgeshsamariya/awesome-github-profile-readme-templates/master/images/neural.gif" width="600px">
+  </picture>
   
   <br><br>
   
@@ -74,61 +79,107 @@ Do you dare step into the enchanted corridors of innovation? Let's embark on thi
 
 ## <div align="center">🧙‍♂️ My Magical Tech Arsenal 🧙‍♂️</div>
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%" align="center">
-      <h3>💻 Enchanted Languages</h3>
-      <img src="https://skillicons.dev/icons?i=python,java,c&theme=dark&perline=3" alt="Languages" />
-      <br><br>
-      <h3>⚡ AI & ML Spellbooks</h3>
-      <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark&perline=3" alt="AI & ML Tools" />
-      <br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original-wordmark.svg" width="50" alt="Keras" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original-wordmark.svg" width="50" alt="OpenCV" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50" alt="Scikit-Learn" />
-    </td>
-    <td width="50%" align="center">
-      <h3>📊 Data Magic</h3>
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="MySQL" />
-      <br>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" width="50" alt="NumPy" />
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" width="50" alt="Pandas" />
-      <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/matplotlib-icon.svg" width="50" alt="Matplotlib" />
-      <br><br>
-      <h3>☁️ Cloud Charms</h3>
-      <img src="https://skillicons.dev/icons?i=aws,firebase,github&theme=dark" alt="Cloud Tools" />
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  <h3>🎨 Creative Potions & Tools</h3>
-  <img src="https://skillicons.dev/icons?i=figma,blender&theme=dark" alt="Design Tools" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" alt="Canva" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netlify/netlify-original-wordmark.svg" width="45" alt="Netlify" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nvidia.svg" width="45" alt="NVIDIA" />
-</div>
-
-<br>
-
-<div align="center">
-  <details>
-    <summary><b>🔮 Click to reveal more magical tools</b></summary>
-    <br>
-    <img src="https://img.shields.io/badge/LangChain-💠-purple?style=for-the-badge&labelColor=black" alt="LangChain" />
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
-    <img src="https://img.shields.io/badge/mlflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
-    <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
-    <img src="https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
-    <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio" />
-  </details>
-</div>
-
-<div align="center">
-  <h3>🧪 My Tech Power Level</h3>
-  <a href="#">
-    <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tech%20Magic%20Levels&align=center&titleAlign=center&fontSize=20&lineCount=2&theme=catppuccin_mocha&line1=python,python,61c9f8;tensorflow,tensorflow,ff6f00;pytorch,pytorch,ee4c2c;opencv,opencv,5c3ee8;&line2=keras,keras,d00000;numpy,numpy,013243;pandas,pandas,150458;github,github,ffffff;" alt="Tech Stack"/>
-  </a>
+  <!-- Tech Category Tabs -->
+  <div>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=9D65FF&center=true&vCenter=true&random=false&width=440&lines=Languages+%26+Core+Technologies;AI+%26+ML+Frameworks;Data+Science+Tools;Cloud+%26+DevOps;Design+%26+Creative+Tools" alt="Tech Categories" />
+  </div>
+  
+  <br>
+  
+  <!-- Languages Section with Icons -->
+  <h3>💻 Enchanted Languages</h3>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/></a>
+  </p>
+  
+  <!-- AI & ML Section -->
+  <h3>⚡ AI & ML Spellbooks</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="60" alt="TensorFlow"/><br>
+        <span>TensorFlow</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="60" alt="PyTorch"/><br>
+        <span>PyTorch</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="60" alt="OpenCV"/><br>
+        <span>OpenCV</span>
+      </td>
+      <td align="center">
+        <img src="https://keras.io/img/logo.png" width="60" alt="Keras"/><br>
+        <span>Keras</span>
+      </td>
+      <td align="center">
+        <img src="https://sklearn.org/stable/_images/scikit-learn-logo-small.png" width="60" alt="Scikit-Learn"/><br>
+        <span>Scikit-Learn</span>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Data Science Section -->
+  <h3>📊 Data Science Potions</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" alt="NumPy"/><br>
+        <span>NumPy</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" alt="Pandas"/><br>
+        <span>Pandas</span>
+      </td>
+      <td align="center">
+        <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" width="60" alt="Matplotlib"/><br>
+        <span>Matplotlib</span>
+      </td>
+      <td align="center">
+        <img src="https://www.fullstackpython.com/img/logos/scipy.png" width="60" alt="SciPy"/><br>
+        <span>SciPy</span>
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60" alt="MySQL"/><br>
+        <span>MySQL</span>
+      </td>
+    </tr>
+  </table>
+  
+  <!-- Cloud & DevOps -->
+  <h3>☁️ Cloud Charms</h3>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" alt="Netlify"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  </p>
+  
+  <!-- Design Tools -->
+  <h3>🎨 Creative Potions</h3>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/></a>
+  </p>
+  
+  <!-- Specialized Tools -->
+  <h3>🧪 Specialized Enchantments</h3>
+  <p>
+    <a href="#"><img src="https://img.shields.io/badge/LangChain-💠-purple?style=for-the-badge&labelColor=black" alt="LangChain"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" alt="NVIDIA"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white" alt="Twilio"/></a>
+  </p>
+  
+  <!-- Skills Progress Bars -->
+  <h3>✨ Magic Skill Levels</h3>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-R03&layout=donut-vertical&theme=radical&hide_border=true" alt="Top Languages" height="320"/>
+  </p>
 </div>
 
 ---
